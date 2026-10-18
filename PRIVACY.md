@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 17 October 2026
+Last updated: 18 October 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -11,7 +11,7 @@ RoadLimit uses your phone's location only while the app is open, to work out whi
 To show limits, RoadLimit needs map data for the area around you. It gets it in one of two ways:
 
 - **Map packs.** A whole region's map data, downloaded when you choose to from GitHub (github.com, run by GitHub, Inc.). The request says which region you chose, not where you are.
-- **Map squares while driving.** Where there's no map pack, RoadLimit asks a public OpenStreetMap server for the roads in a square about 2 km across around you: overpass-api.de (FOSSGIS e.V., Germany), overpass.private.coffee or overpass.kumi.systems. The request contains that square, not your exact position. Like any website, these servers see your phone's internet address, and may keep it in their logs under their own policies.
+- **Map areas while driving.** Where there's no map pack, RoadLimit asks a public OpenStreetMap server for the roads in an area about 2 km across around you: overpass-api.de (FOSSGIS e.V., Germany), overpass.private.coffee or overpass.kumi.systems. The request contains that area, not your exact position. Like any website, these servers see your phone's internet address, and may keep it in their logs under their own policies.
 
 Map data © OpenStreetMap contributors, under the Open Database Licence.
 
@@ -37,7 +37,7 @@ RoadLimit is meant for drivers and isn't directed at children.
 
 ## Deleting your data
 
-Uninstalling RoadLimit deletes everything it stored. You can also delete map packs in Settings → Map data, and recorded drives and map squares on the Testing page.
+Uninstalling RoadLimit deletes everything it stored. You can also delete map packs and map areas saved while driving in Settings → Map data, and recorded drives on the Testing page.
 
 ## Changes
 
