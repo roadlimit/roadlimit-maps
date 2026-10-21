@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 18 October 2026
+Last updated: 21 October 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -30,6 +30,8 @@ None of this leaves your phone unless you choose to share it.
 ## Speech and sounds
 
 Spoken limits use your phone's own text-to-speech. RoadLimit sends it only the words to say.
+
+If you turn on "Say 'wrong limit' to mark it" (Testing page), RoadLimit uses the microphone for 10 seconds after each spoken limit, listening only for the words "wrong limit". Speech is recognised on your phone by its own speech recognition; RoadLimit doesn't record or keep any audio, and nothing you say is sent anywhere. When it hears "wrong limit", it saves where the limit was spoken, the road and the limit shown, with your drives on the phone, so you can send it with feedback. The microphone is never used otherwise, and the setting is off unless you turn it on.
 
 ## Children
 
