@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 23 October 2026
+Last updated: 25 October 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -25,7 +25,7 @@ None of this leaves your phone unless you choose to share it.
 
 ## When you share something
 
-**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your phone's share menu. You choose where it goes, for example an email to us. Feedback contains your note and, if you leave it ticked, RoadLimit's log and any drives recorded in the last two days. We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
+**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your email app with it attached, addressed to us at lekkyapp@gmail.com (or your phone's share menu if there's no email app). Nothing is sent until you send it, and you can change where it goes. Feedback contains your note and, if you leave it ticked, RoadLimit's log and any drives recorded in the last two days. We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
 
 ## Speech and sounds
 
@@ -49,4 +49,4 @@ If this policy changes, the new version will be posted here with a new date.
 
 ## Contact
 
-Use the contact email shown on RoadLimit's Google Play page.
+Email lekkyapp@gmail.com.
