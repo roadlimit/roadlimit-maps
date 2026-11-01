@@ -6,7 +6,7 @@ RoadLimit shows the speed limit for the road you're driving on in the UK. It has
 
 ## Your location
 
-RoadLimit uses your phone's location only while the app is open, to work out which road you're on and its speed limit. If you turn on Alerts with the screen off (Settings → Alerts → Alert settings), it carries on while you're driving with the screen off or another app in front, with a notification showing, and stops when the drive ends or you close RoadLimit. It never uses your location otherwise in the background, and it does not store or send your position anywhere.
+RoadLimit uses your phone's location only while the app is open (on screen, or as the floating sign), to work out which road you're on and its speed limit. It never uses your location in the background, and it does not store or send your position anywhere.
 
 To show limits, RoadLimit needs map data for the area around you. It gets it in one of two ways:
 
@@ -17,7 +17,7 @@ Map data © OpenStreetMap contributors, under the Open Database Licence.
 
 ## What stays on your phone
 
-Your settings (licence plates, vehicle, sounds), the map data RoadLimit has downloaded, and RoadLimit's own log of what it did. The log can include the roads and places you drove that day. Old log entries are replaced automatically.
+Your settings, the map data RoadLimit has downloaded, and RoadLimit's own log of what it did. The log can include the roads and places you drove that day. Old log entries are replaced automatically.
 
 If you turn on **Record drives** on the Testing page, RoadLimit also saves your drives (positions and what it decided) on the phone for 30 days.
 
