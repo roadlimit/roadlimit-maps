@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 31 October 2026
+Last updated: 4 November 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -21,7 +21,7 @@ Your settings, the map data RoadLimit has downloaded, and RoadLimit's own log of
 
 If you turn on **Record drives** on the Testing page, RoadLimit also saves your drives (positions and what it decided) on the phone for 30 days.
 
-RoadLimit keeps a short list of where the speed limit it showed changed on your drives (the place, the road and the limit), on the phone for 7 days, so you can check them in **Settings → Check recent drives**. If you say a sign showed something different, RoadLimit uses your limit for that road on your phone only. It keeps each of these corrections, with the road's name, the place and the direction you were going (so it can find the road again when the map changes), until the map agrees or you remove it in Your corrections.
+RoadLimit keeps a short list of where the speed limit it showed changed on your drives (the place, the road and the limit), on the phone for 7 days, so you can check them in **Settings → Check recent drives**. If you say a sign showed something different, RoadLimit uses your limit for that road on your phone only. It keeps each of these corrections, with the road's name, the place and the direction you were going (so it can find the road again when the map changes), until the map agrees or you remove it in Your corrections. You can turn Check recent drives off at the top of its screen: RoadLimit then stops adding to the list, and you choose whether to delete the list straight away or let it go after 7 days. Your corrections keep working until you remove them, one at a time or with **Delete all corrections**.
 
 The **Open in OpenStreetMap** button in Check recent drives opens that place on openstreetmap.org in your browser, only when you tap it. OpenStreetMap's own privacy policy then applies.
 
@@ -29,7 +29,7 @@ None of this leaves your phone unless you choose to share it.
 
 ## When you share something
 
-**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your email app with it attached, addressed to us at lekkyapp@gmail.com (or your phone's share menu if there's no email app). Nothing is sent until you send it, and you can change where it goes. Feedback contains only your note, RoadLimit's version, your phone's Android version and your settings. Share drives (for testers) contains your recorded drives, RoadLimit's log, the map areas used, and Check recent drives' list, your answers and your corrections (places, roads, limits and directions). We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
+**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your email app with it attached, addressed to us at lekkyapp@gmail.com (or your phone's share menu if there's no email app). Nothing is sent until you send it, and you can change where it goes. Feedback contains only your note, RoadLimit's version, your phone's Android version and your settings. Share drives (for testers) contains your recorded drives, RoadLimit's log, the map areas used, the places you marked "wrong limit", Check recent drives' list (if kept), your answers and your corrections (places, roads, limits and directions). We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
 
 ## Speech and sounds
 
@@ -45,7 +45,7 @@ RoadLimit is meant for drivers and isn't directed at children.
 
 ## Deleting your data
 
-Uninstalling RoadLimit deletes everything it stored. You can also delete map packs and map areas saved while driving in Settings → Map data, recorded drives on the Testing page, and your corrections in Check recent drives.
+Uninstalling RoadLimit deletes everything it stored. You can also delete map packs and map areas saved while driving in Settings → Map data, recorded drives on the Testing page, your corrections in Check recent drives (one at a time, or Delete all corrections), and its list when you turn it off.
 
 ## Changes
 
