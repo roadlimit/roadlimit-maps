@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 4 November 2026
+Last updated: 7 November 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -38,6 +38,10 @@ Spoken limits use your phone's own text-to-speech. RoadLimit sends it only the w
 To stay quiet during phone calls, RoadLimit checks whether the phone is ringing or on a call (an ordinary or internet call). It never learns who is calling or anything about the call, and this check never leaves your phone.
 
 If you turn on "Say 'wrong limit' to mark it" (Testing page), RoadLimit uses the microphone for 10 seconds after each spoken limit, listening only for the words "wrong limit". Speech is recognised on your phone by its own speech recognition; RoadLimit doesn't record or keep any audio, and nothing you say is sent anywhere. When it hears "wrong limit", it saves where the limit was spoken, the road and the limit shown, with your drives on the phone, so you can send it with Share drives. The microphone is never used otherwise, and the setting is off unless you turn it on.
+
+## Tips
+
+If you choose to give a tip (Settings, Support RoadLimit), Google Play takes the payment, as with any purchase on Google Play. RoadLimit never sees your card or payment details; it only learns from Google Play that a tip went through, so it can say thank you. Tips unlock nothing, and nothing about them is kept on your phone or sent to us.
 
 ## Children
 
