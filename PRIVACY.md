@@ -1,12 +1,12 @@
 # RoadLimit privacy policy
 
-Last updated: 10 November 2026
+Last updated: 11 November 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
 ## Your location
 
-RoadLimit uses your phone's location only while the app is open (on screen, or as the floating sign), to work out which road you're on and its speed limit. It never uses your location in the background, and it does not store or send your position anywhere.
+RoadLimit uses your phone's location only while the app is open (on screen, or as the floating sign), to work out which road you're on and its speed limit, and whether a map pack on your phone covers where you are. It never uses your location in the background, and it does not store or send your position anywhere.
 
 To show limits, RoadLimit needs map data for the area around you. It gets it in one of two ways:
 
