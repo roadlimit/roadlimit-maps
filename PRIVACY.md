@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 7 November 2026
+Last updated: 10 November 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -23,7 +23,7 @@ If you turn on **Record drives** on the Testing page, RoadLimit also saves your 
 
 RoadLimit keeps a short list of where the speed limit it showed changed on your drives (the place, the road and the limit), on the phone for 7 days, so you can check them in **Settings → Check recent drives**. If you say a sign showed something different, RoadLimit uses your limit for that road on your phone only. It keeps each of these corrections, with the road's name, the place and the direction you were going (so it can find the road again when the map changes), until the map agrees or you remove it in Your corrections. You can turn Check recent drives off at the top of its screen: RoadLimit then stops adding to the list, and you choose whether to delete the list straight away or let it go after 7 days. Your corrections keep working until you remove them, one at a time or with **Delete all corrections**.
 
-The **Open in OpenStreetMap** button in Check recent drives opens that place on openstreetmap.org in your browser, only when you tap it. OpenStreetMap's own privacy policy then applies.
+The **Look on Street View** and **Open in OpenStreetMap** buttons in Check recent drives and Your corrections open that place in Google Maps or on openstreetmap.org, only when you tap them. RoadLimit sends nothing itself. Google's or OpenStreetMap's own privacy policy then applies, and if you're signed in to Google, Google may link the place to your account.
 
 None of this leaves your phone unless you choose to share it.
 
