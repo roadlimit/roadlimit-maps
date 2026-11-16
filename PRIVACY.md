@@ -1,6 +1,6 @@
 # RoadLimit privacy policy
 
-Last updated: 12 November 2026
+Last updated: 16 November 2026
 
 RoadLimit shows the speed limit for the road you're driving on in the UK. It has no accounts, no adverts, no analytics and no tracking. This policy explains the little it does with your data.
 
@@ -8,7 +8,7 @@ RoadLimit shows the speed limit for the road you're driving on in the UK. It has
 
 RoadLimit uses your phone's location only while the app is open (on screen, or as the floating sign), to work out which road you're on and its speed limit, and whether a map pack on your phone covers where you are. It never uses your location in the background, and it does not store or send your position anywhere.
 
-While the start screen or Settings is open, RoadLimit also reads the phone's motion sensor (accelerometer) to tell whether the phone is lying still, so that a GPS error indoors isn't taken for driving. The readings stay on the phone and aren't stored or sent.
+While the start screen or Settings is open, RoadLimit also reads the phone's motion sensor (accelerometer) to tell whether the phone is lying still, so that a GPS error indoors isn't taken for driving. The readings stay on the phone and aren't stored or sent. If you turn on Record drives on the Testing page, RoadLimit also reads it while driving and saves how much the phone shakes with your recorded drives (see below).
 
 To show limits, RoadLimit needs map data for the area around you. It gets it in one of two ways:
 
@@ -31,7 +31,7 @@ None of this leaves your phone unless you choose to share it.
 
 ## When you share something
 
-**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your email app with it attached, addressed to us at lekkyapp@gmail.com (or your phone's share menu if there's no email app). Nothing is sent until you send it, and you can change where it goes. Feedback contains only your note, RoadLimit's version, your phone's Android version and your settings. Share drives (for testers) contains your recorded drives, RoadLimit's log, the map areas used, the places you marked "wrong limit", Check recent drives' list (if kept), your answers and your corrections (places, roads, limits and directions). We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
+**Send feedback** (Settings → About) and **Share drives** (Testing page) make a file and open your email app with it attached, addressed to us at apps@andrewgawn.org (or your phone's share menu if there's no email app). Nothing is sent until you send it, and you can change where it goes. Feedback contains only your note, RoadLimit's version, your phone's Android version and your settings. Share drives (for testers) contains your recorded drives, RoadLimit's log, the map areas used, the places you marked "wrong limit", Check recent drives' list (if kept), your answers and your corrections (places, roads, limits and directions). We use what you send only to fix and improve RoadLimit, and delete it when it's no longer needed.
 
 ## Speech and sounds
 
@@ -59,4 +59,4 @@ If this policy changes, the new version will be posted here with a new date.
 
 ## Contact
 
-Email lekkyapp@gmail.com.
+Email apps@andrewgawn.org.
